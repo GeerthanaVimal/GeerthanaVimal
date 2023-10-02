@@ -6,7 +6,7 @@ studying Science and Technology specializing in Mechatronics at Uva Wellassa Uni
 <br>
 🌍  I'm based in Sri Lanka
 <br> 
-✉️  You can contact me at [vimalgeerthana@gmail.com](mailto:vimalgeerthana@gmail.com)
+✉️  You can contact me at <a href="vimalgeerthana@gmail.com">vimalgeerthana@gmail.com</a>
 <br> 
 🧠  I'm learning Machine Learning, Deep learning & Artificial Intelligence
 <br> 
