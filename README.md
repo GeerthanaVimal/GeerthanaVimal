@@ -8,7 +8,7 @@ studying Science and Technology specializing in Mechatronics at Uva Wellassa Uni
 <br> 
 ✉️  You can contact me at <a href="vimalgeerthana@gmail.com">vimalgeerthana@gmail.com</a>
 <br> 
-🧠  I'm learning Machine Learning, Deep learning & Artificial Intelligence
+🧠  I'm learning Machine Learning, Deep Learning & Artificial Intelligence
 <br> 
 🤝  I'm open to collaborating on ML/AI related projects
 <br> 
