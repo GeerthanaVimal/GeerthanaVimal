@@ -1,4 +1,4 @@
-<h1>Hi 👋 My name is Geerthana Vimalambikaipakan</h1>
+<h1>Hi 👋 I'm Geerthana Vimalambikaipakan</h1>
 <h2>Undergraduate in Mechatronics | ML/AI Enthusiast</h2>
 I'm Geerthana Vimalambikaipakan,
 an undergraduate student, 
