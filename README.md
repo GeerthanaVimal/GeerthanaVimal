@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geerthanavimal&label=Profile%20views&color=0e75b6&style=flat" alt="geerthanavimal" /> </p>
 
-<p align="left"> <a href="https://twitter.com/geerthana_13" target="blank"><img src="https://img.shields.io/twitter/follow/geerthana_13?logo=twitter&style=for-the-badge" alt="geerthana_13" /></a> </p>
-
 - 🌍 I'm based in **Sri Lanka**
 
 - 🌱 I’m currently learning **Deep Learning, Machine Learning & Artificial Intelligence**
