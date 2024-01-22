@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geerthanavimal&label=Profile%20views&color=0e75b6&style=flat" alt="geerthanavimal" /> </p>
 
-- 🌍 I'm based in **Sri Lanka**
+🌍 I'm based in **Sri Lanka**
 
-- 🌱 I’m currently learning **Deep Learning, Machine Learning & Artificial Intelligence**
+🌱 I’m currently learning **Deep Learning, Machine Learning & Artificial Intelligence**
 
-- 👯 I’m looking to collaborate on **DL/ML/AI related projects**
+👯 I’m looking to collaborate on **DL/ML/AI related projects**
 
-- 📫 How to reach me **vimalgeerthana@gmail.com**
+📫 How to reach me **vimalgeerthana@gmail.com**
 
-- ⚡ **Be happy**
+⚡ **Be happy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
