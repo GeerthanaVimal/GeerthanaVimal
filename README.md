@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Geerthana Vimalambikaipakan</h1>
-<h3 align="center">ML/AI Enthusiast</h3>
+<h3 align="center">AI/ML Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geerthanavimal&label=Profile%20views&color=0e75b6&style=flat" alt="geerthanavimal" /> </p>
 
