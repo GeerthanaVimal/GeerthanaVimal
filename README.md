@@ -9,7 +9,7 @@
 
 👯 I’m looking to collaborate on **DL/ML/AI related projects**
 
-📫 How to reach me **vimalgeerthana@gmail.com**
+📫 How to reach me **geer0913@gmail.com**
 
 ⚡ **Be happy**
 
