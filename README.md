@@ -9,8 +9,6 @@
 
 👯 I’m looking to collaborate on **DL/ML/AI related projects**
 
-📫 How to reach me **geer0913@gmail.com**
-
 ⚡ **Be happy**
 
 <h3 align="left">Connect with me:</h3>
